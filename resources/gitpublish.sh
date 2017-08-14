@@ -22,7 +22,7 @@ cp PATENTS npm/
 
 cd npm
 git init
-git config user.name "tobkle"
+git config user.name "Travis CI"
 git config user.email "tobias@klemmer.info"
 git add .
 git commit -m "Deploy master to NPM branch"
